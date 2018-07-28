@@ -1,9 +1,1 @@
-<html>
-  <title>
-    hi</title>
-  <head>
-    hi</head>
-  <body>
-    hello
-    </body>
-  </html>
+print("hello world")
